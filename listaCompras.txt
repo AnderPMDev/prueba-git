@@ -1,9 +1,11 @@
 Leche
-pan
-lechuga
-tomate
-cebolla
-queso cremoso
-queso rallado
-5 manzanas
-12 naranjas
+Pan
+Lechuga
+Tomate
+Cebolla
+Queso Cremoso
+Huevos
+Harina
+Aceite
+Vinagre
+
